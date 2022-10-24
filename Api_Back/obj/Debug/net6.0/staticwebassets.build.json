@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PZK2jM8UT3pTwN64lkxt/0beHaOZ1FRtfS0StC2jn2M=",
+  "Source": "Api_Back",
+  "BasePath": "_content/Api_Back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
